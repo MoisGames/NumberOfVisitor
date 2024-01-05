@@ -34,6 +34,6 @@ const check = (string) => {
       resultString = resultQuantityM + 'M' + resultQuantityW + 'W' + resultQuantityC + 'C';
       console.log(resultString);
     }
-  
-  }
+  //2
+  } 
   check('WWMMCC');
